@@ -1,0 +1,6 @@
+{
+  "name": "PCCOER CONNECT",
+  "description": "Official digital academic ecosystem of PCCOER. Connecting classroom teaching, digital content, real virtual labs, practicals, assessments, and AI academic automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
